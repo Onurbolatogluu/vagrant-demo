@@ -118,7 +118,7 @@ Vagrant, yazılım geliştiriciler ve sistem yöneticileri için sanal makineler
       ```
 
 14. **provision**:<br>
-    - **Açıklama**: Vagrant makinesini sağlama (provisioning) işlemini gerçekleştirir.<br>
+    - **Açıklama**: Vagrant makinesini provisioning işlemini gerçekleştirir.<br>
     - **Örnek Kullanım**:<br>
       ```bash
       vagrant provision
